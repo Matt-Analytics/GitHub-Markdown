@@ -155,4 +155,3 @@ To create a GitHub account you can simply visit the website and sign up via emai
   ```bash
       git clone https://github.com/Account/GitExample.git
   ```
-   
